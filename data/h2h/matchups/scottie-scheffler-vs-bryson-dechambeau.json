@@ -1,0 +1,190 @@
+{
+  "matchupId": "scottie-scheffler-vs-bryson-dechambeau",
+  "updatedAt": "2026-05-29T20:04:24.150Z",
+  "source": "DataGolf Historical Event Data",
+  "rules": {
+    "mainStat": "shared-start wins",
+    "explanation": "This compares tournaments where both players were in the same field.",
+    "counting": "Better finish wins the shared start. Tied finishes count as ties. WD and DQ are excluded by default. Missed cuts count below made cuts.",
+    "dataNote": null
+  },
+  "playerA": {
+    "name": "Scheffler, Scottie",
+    "displayName": "Scottie Scheffler",
+    "slug": "scottie-scheffler",
+    "dgId": 18417,
+    "country": "USA"
+  },
+  "playerB": {
+    "name": "DeChambeau, Bryson",
+    "displayName": "Bryson DeChambeau",
+    "slug": "bryson-dechambeau",
+    "dgId": 19841,
+    "country": "USA"
+  },
+  "summary": {
+    "since": 2020,
+    "sharedStarts": 6,
+    "playerAWins": 6,
+    "playerBWins": 0,
+    "ties": 0
+  },
+  "events": [
+    {
+      "year": 2026,
+      "date": "2026-05-17",
+      "eventId": 33,
+      "eventName": "PGA Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T14",
+        "earnings": 364763,
+        "fedExCupPoints": 90,
+        "dgPoints": 2.079
+      },
+      "playerB": {
+        "name": "Bryson DeChambeau",
+        "dgId": 19841,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 985 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-04-12",
+      "eventId": 14,
+      "eventName": "Masters Tournament",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "2",
+        "earnings": 2430000,
+        "fedExCupPoints": 500,
+        "dgPoints": 13.8649
+      },
+      "playerB": {
+        "name": "Bryson DeChambeau",
+        "dgId": 19841,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 997 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-07-20",
+      "eventId": 100,
+      "eventName": "The Open Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 3100000,
+        "fedExCupPoints": 750,
+        "dgPoints": 28
+      },
+      "playerB": {
+        "name": "Bryson DeChambeau",
+        "dgId": 19841,
+        "finish": "T10",
+        "earnings": 304650,
+        "fedExCupPoints": 0,
+        "dgPoints": 2.8133
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 9 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-06-15",
+      "eventId": 26,
+      "eventName": "U.S. Open",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T7",
+        "earnings": 615786,
+        "fedExCupPoints": 225,
+        "dgPoints": 4.0132
+      },
+      "playerB": {
+        "name": "Bryson DeChambeau",
+        "dgId": 19841,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 992 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-05-18",
+      "eventId": 33,
+      "eventName": "PGA Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 3420000,
+        "fedExCupPoints": 750,
+        "dgPoints": 28
+      },
+      "playerB": {
+        "name": "Bryson DeChambeau",
+        "dgId": 19841,
+        "finish": "T2",
+        "earnings": 1418667,
+        "fedExCupPoints": 0,
+        "dgPoints": 10.8614
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 1 spot",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-04-13",
+      "eventId": 14,
+      "eventName": "Masters Tournament",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "4",
+        "earnings": 1008000,
+        "fedExCupPoints": 325,
+        "dgPoints": 6.9699
+      },
+      "playerB": {
+        "name": "Bryson DeChambeau",
+        "dgId": 19841,
+        "finish": "T5",
+        "earnings": 798000,
+        "fedExCupPoints": 0,
+        "dgPoints": 5.0996
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 1 spot",
+      "counted": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "matchupId": "tiger-woods-vs-scottie-scheffler",
+  "updatedAt": "2026-05-29T20:09:41.148Z",
+  "source": "DataGolf Historical Event Data",
+  "rules": {
+    "mainStat": "shared-start wins",
+    "explanation": "This compares tournaments where both players were in the same field.",
+    "counting": "Better finish wins the shared start. Tied finishes count as ties. WD and DQ are excluded by default. Missed cuts count below made cuts.",
+    "dataNote": "Limited to shared starts during Scottie Scheffler's PGA Tour era."
+  },
+  "playerA": {
+    "name": "Woods, Tiger",
+    "displayName": "Tiger Woods",
+    "slug": "tiger-woods",
+    "dgId": 5321,
+    "country": "USA"
+  },
+  "playerB": {
+    "name": "Scheffler, Scottie",
+    "displayName": "Scottie Scheffler",
+    "slug": "scottie-scheffler",
+    "dgId": 18417,
+    "country": "USA"
+  },
+  "summary": {
+    "since": 2020,
+    "sharedStarts": 0,
+    "playerAWins": 0,
+    "playerBWins": 0,
+    "ties": 0
+  },
+  "events": []
+}

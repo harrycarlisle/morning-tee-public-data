@@ -1,0 +1,658 @@
+{
+  "matchupId": "scottie-scheffler-vs-tommy-fleetwood",
+  "updatedAt": "2026-05-29T20:04:24.438Z",
+  "source": "DataGolf Historical Event Data",
+  "rules": {
+    "mainStat": "shared-start wins",
+    "explanation": "This compares tournaments where both players were in the same field.",
+    "counting": "Better finish wins the shared start. Tied finishes count as ties. WD and DQ are excluded by default. Missed cuts count below made cuts.",
+    "dataNote": null
+  },
+  "playerA": {
+    "name": "Scheffler, Scottie",
+    "displayName": "Scottie Scheffler",
+    "slug": "scottie-scheffler",
+    "dgId": 18417,
+    "country": "USA"
+  },
+  "playerB": {
+    "name": "Fleetwood, Tommy",
+    "displayName": "Tommy Fleetwood",
+    "slug": "tommy-fleetwood",
+    "dgId": 12294,
+    "country": "ENG"
+  },
+  "summary": {
+    "since": 2020,
+    "sharedStarts": 24,
+    "playerAWins": 14,
+    "playerBWins": 6,
+    "ties": 4
+  },
+  "events": [
+    {
+      "year": 2026,
+      "date": "2026-05-17",
+      "eventId": 33,
+      "eventName": "PGA Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T14",
+        "earnings": 364763,
+        "fedExCupPoints": 90,
+        "dgPoints": 2.079
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 985 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-05-03",
+      "eventId": 556,
+      "eventName": "Cadillac Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "2",
+        "earnings": 2160000,
+        "fedExCupPoints": 400,
+        "dgPoints": 7.7241
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T23",
+        "earnings": 167143,
+        "fedExCupPoints": 40,
+        "dgPoints": 0.4833
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 21 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-04-19",
+      "eventId": 12,
+      "eventName": "RBC Heritage",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "2",
+        "earnings": 2160000,
+        "fedExCupPoints": 400,
+        "dgPoints": 0
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T52",
+        "earnings": 43500,
+        "fedExCupPoints": 11.5,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 50 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-04-12",
+      "eventId": 14,
+      "eventName": "Masters Tournament",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "2",
+        "earnings": 2430000,
+        "fedExCupPoints": 500,
+        "dgPoints": 13.8649
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T33",
+        "earnings": 121500,
+        "fedExCupPoints": 27.6,
+        "dgPoints": 0.4985
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 31 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-03-15",
+      "eventId": 11,
+      "eventName": "THE PLAYERS Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T22",
+        "earnings": 271250,
+        "fedExCupPoints": 52,
+        "dgPoints": 0.9897
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T8",
+        "earnings": 731250,
+        "fedExCupPoints": 200,
+        "dgPoints": 2.5446
+      },
+      "h2hWinner": "tommy-fleetwood",
+      "edge": "Tommy by 14 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-03-08",
+      "eventId": 9,
+      "eventName": "Arnold Palmer Invitational presented by Mastercard",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T24",
+        "earnings": 157000,
+        "fedExCupPoints": 36.333,
+        "dgPoints": 0.4734
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "49",
+        "earnings": 56000,
+        "fedExCupPoints": 13.5,
+        "dgPoints": 0.1183
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 25 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-02-22",
+      "eventId": 7,
+      "eventName": "The Genesis Invitational",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T12",
+        "earnings": 415000,
+        "fedExCupPoints": 105,
+        "dgPoints": 1.3232
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T7",
+        "earnings": 603200,
+        "fedExCupPoints": 176,
+        "dgPoints": 2.1185
+      },
+      "h2hWinner": "tommy-fleetwood",
+      "edge": "Tommy by 5 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-02-15",
+      "eventId": 5,
+      "eventName": "AT&T Pebble Beach Pro-Am",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T4",
+        "earnings": 877500,
+        "fedExCupPoints": 312.5,
+        "dgPoints": 4.33
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T4",
+        "earnings": 877500,
+        "fedExCupPoints": 312.5,
+        "dgPoints": 4.33
+      },
+      "h2hWinner": "tie",
+      "edge": "Tie",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-08-24",
+      "eventId": 60,
+      "eventName": "TOUR Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T4",
+        "earnings": 2616667,
+        "fedExCupPoints": 0,
+        "dgPoints": 2.3945
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "1",
+        "earnings": 10000000,
+        "fedExCupPoints": 0,
+        "dgPoints": 12.5823
+      },
+      "h2hWinner": "tommy-fleetwood",
+      "edge": "Tommy by 3 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-08-17",
+      "eventId": 28,
+      "eventName": "BMW Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 3600000,
+        "fedExCupPoints": 2000,
+        "dgPoints": 15.5358
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T4",
+        "earnings": 910000,
+        "fedExCupPoints": 490,
+        "dgPoints": 3.5416
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 3 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-08-10",
+      "eventId": 27,
+      "eventName": "FedEx St. Jude Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T3",
+        "earnings": 1160000,
+        "fedExCupPoints": 650,
+        "dgPoints": 4.8745
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T3",
+        "earnings": 1160000,
+        "fedExCupPoints": 650,
+        "dgPoints": 4.8745
+      },
+      "h2hWinner": "tie",
+      "edge": "Tie",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-07-20",
+      "eventId": 100,
+      "eventName": "The Open Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 3100000,
+        "fedExCupPoints": 750,
+        "dgPoints": 28
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T16",
+        "earnings": 185257,
+        "fedExCupPoints": 66.143,
+        "dgPoints": 1.6908
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 15 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-07-13",
+      "eventId": 541,
+      "eventName": "Genesis Scottish Open",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T8",
+        "earnings": 233400,
+        "fedExCupPoints": 80,
+        "dgPoints": 2.2164
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T34",
+        "earnings": 52950,
+        "fedExCupPoints": 18,
+        "dgPoints": 0.4967
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 26 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-06-22",
+      "eventId": 34,
+      "eventName": "Travelers Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T6",
+        "earnings": 695000,
+        "fedExCupPoints": 250,
+        "dgPoints": 2.7491
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T2",
+        "earnings": 1760000,
+        "fedExCupPoints": 375,
+        "dgPoints": 7.0461
+      },
+      "h2hWinner": "tommy-fleetwood",
+      "edge": "Tommy by 4 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-06-15",
+      "eventId": 26,
+      "eventName": "U.S. Open",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T7",
+        "earnings": 615786,
+        "fedExCupPoints": 225,
+        "dgPoints": 4.0132
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 992 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-06-01",
+      "eventId": 23,
+      "eventName": "the Memorial Tournament presented by Workday",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 4000000,
+        "fedExCupPoints": 700,
+        "dgPoints": 16.0358
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T16",
+        "earnings": 319000,
+        "fedExCupPoints": 68.75,
+        "dgPoints": 0.8991
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 15 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-05-25",
+      "eventId": 21,
+      "eventName": "Charles Schwab Challenge",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T4",
+        "earnings": 427500,
+        "fedExCupPoints": 122.5,
+        "dgPoints": 3.405
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T4",
+        "earnings": 427500,
+        "fedExCupPoints": 122.5,
+        "dgPoints": 3.405
+      },
+      "h2hWinner": "tie",
+      "edge": "Tie",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-05-18",
+      "eventId": 33,
+      "eventName": "PGA Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 3420000,
+        "fedExCupPoints": 750,
+        "dgPoints": 28
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T41",
+        "earnings": 60677,
+        "fedExCupPoints": 19.125,
+        "dgPoints": 0.6504
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 40 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-04-20",
+      "eventId": 12,
+      "eventName": "RBC Heritage",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T8",
+        "earnings": 580000,
+        "fedExCupPoints": 175,
+        "dgPoints": 1.9461
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "7",
+        "earnings": 670000,
+        "fedExCupPoints": 225,
+        "dgPoints": 2.4886
+      },
+      "h2hWinner": "tommy-fleetwood",
+      "edge": "Tommy by 1 spot",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-04-13",
+      "eventId": 14,
+      "eventName": "Masters Tournament",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "4",
+        "earnings": 1008000,
+        "fedExCupPoints": 325,
+        "dgPoints": 6.9699
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T21",
+        "earnings": 210000,
+        "fedExCupPoints": 50,
+        "dgPoints": 0.9366
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 17 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-03-16",
+      "eventId": 11,
+      "eventName": "THE PLAYERS Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T20",
+        "earnings": 240250,
+        "fedExCupPoints": 48.3,
+        "dgPoints": 0.9989
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T14",
+        "earnings": 418750,
+        "fedExCupPoints": 82.5,
+        "dgPoints": 1.5106
+      },
+      "h2hWinner": "tommy-fleetwood",
+      "edge": "Tommy by 6 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-03-09",
+      "eventId": 9,
+      "eventName": "Arnold Palmer Invitational presented by Mastercard",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T11",
+        "earnings": 451250,
+        "fedExCupPoints": 115,
+        "dgPoints": 1.4274
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T11",
+        "earnings": 451250,
+        "fedExCupPoints": 115,
+        "dgPoints": 1.4274
+      },
+      "h2hWinner": "tie",
+      "edge": "Tie",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-02-16",
+      "eventId": 7,
+      "eventName": "The Genesis Invitational",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T3",
+        "earnings": 1200000,
+        "fedExCupPoints": 337.5,
+        "dgPoints": 5.1523
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T5",
+        "earnings": 736500,
+        "fedExCupPoints": 250,
+        "dgPoints": 2.8942
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 2 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-02-02",
+      "eventId": 5,
+      "eventName": "AT&T Pebble Beach Pro-Am",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T9",
+        "earnings": 535000,
+        "fedExCupPoints": 151.667,
+        "dgPoints": 1.9139
+      },
+      "playerB": {
+        "name": "Tommy Fleetwood",
+        "dgId": 12294,
+        "finish": "T22",
+        "earnings": 158273,
+        "fedExCupPoints": 38.273,
+        "dgPoints": 0.5735
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 13 spots",
+      "counted": true
+    }
+  ]
+}

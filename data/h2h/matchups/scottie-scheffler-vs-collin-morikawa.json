@@ -1,0 +1,658 @@
+{
+  "matchupId": "scottie-scheffler-vs-collin-morikawa",
+  "updatedAt": "2026-05-29T20:04:24.300Z",
+  "source": "DataGolf Historical Event Data",
+  "rules": {
+    "mainStat": "shared-start wins",
+    "explanation": "This compares tournaments where both players were in the same field.",
+    "counting": "Better finish wins the shared start. Tied finishes count as ties. WD and DQ are excluded by default. Missed cuts count below made cuts.",
+    "dataNote": null
+  },
+  "playerA": {
+    "name": "Scheffler, Scottie",
+    "displayName": "Scottie Scheffler",
+    "slug": "scottie-scheffler",
+    "dgId": 18417,
+    "country": "USA"
+  },
+  "playerB": {
+    "name": "Morikawa, Collin",
+    "displayName": "Collin Morikawa",
+    "slug": "collin-morikawa",
+    "dgId": 22085,
+    "country": "USA"
+  },
+  "summary": {
+    "since": 2020,
+    "sharedStarts": 24,
+    "playerAWins": 19,
+    "playerBWins": 5,
+    "ties": 0
+  },
+  "events": [
+    {
+      "year": 2026,
+      "date": "2026-05-17",
+      "eventId": 33,
+      "eventName": "PGA Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T14",
+        "earnings": 364763,
+        "fedExCupPoints": 90,
+        "dgPoints": 2.079
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T55",
+        "earnings": 34186,
+        "fedExCupPoints": 10.5,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 41 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-05-03",
+      "eventId": 556,
+      "eventName": "Cadillac Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "2",
+        "earnings": 2160000,
+        "fedExCupPoints": 400,
+        "dgPoints": 7.7241
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T62",
+        "earnings": 41500,
+        "fedExCupPoints": 7.5,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 60 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-04-19",
+      "eventId": 12,
+      "eventName": "RBC Heritage",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "2",
+        "earnings": 2160000,
+        "fedExCupPoints": 400,
+        "dgPoints": 0
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T4",
+        "earnings": 823333,
+        "fedExCupPoints": 300,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 2 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-04-12",
+      "eventId": 14,
+      "eventName": "Masters Tournament",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "2",
+        "earnings": 2430000,
+        "fedExCupPoints": 500,
+        "dgPoints": 13.8649
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T7",
+        "earnings": 725625,
+        "fedExCupPoints": 237.5,
+        "dgPoints": 3.672
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 5 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-03-08",
+      "eventId": 9,
+      "eventName": "Arnold Palmer Invitational presented by Mastercard",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T24",
+        "earnings": 157000,
+        "fedExCupPoints": 36.333,
+        "dgPoints": 0.4734
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "5",
+        "earnings": 840000,
+        "fedExCupPoints": 300,
+        "dgPoints": 3.6937
+      },
+      "h2hWinner": "collin-morikawa",
+      "edge": "Collin by 19 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-02-22",
+      "eventId": 7,
+      "eventName": "The Genesis Invitational",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T12",
+        "earnings": 415000,
+        "fedExCupPoints": 105,
+        "dgPoints": 1.3232
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T7",
+        "earnings": 603200,
+        "fedExCupPoints": 176,
+        "dgPoints": 2.1185
+      },
+      "h2hWinner": "collin-morikawa",
+      "edge": "Collin by 5 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-02-15",
+      "eventId": 5,
+      "eventName": "AT&T Pebble Beach Pro-Am",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T4",
+        "earnings": 877500,
+        "fedExCupPoints": 312.5,
+        "dgPoints": 4.33
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "1",
+        "earnings": 3600000,
+        "fedExCupPoints": 700,
+        "dgPoints": 17.859
+      },
+      "h2hWinner": "collin-morikawa",
+      "edge": "Collin by 3 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-02-08",
+      "eventId": 3,
+      "eventName": "WM Phoenix Open",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T3",
+        "earnings": 439680,
+        "fedExCupPoints": 125,
+        "dgPoints": 3.6248
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T54",
+        "earnings": 22272,
+        "fedExCupPoints": 5.75,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 51 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-09-14",
+      "eventId": 464,
+      "eventName": "Procore Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 1080000,
+        "fedExCupPoints": 0,
+        "dgPoints": 10.9761
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T43",
+        "earnings": 21900,
+        "fedExCupPoints": 0,
+        "dgPoints": 0.2521
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 42 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-08-24",
+      "eventId": 60,
+      "eventName": "TOUR Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T4",
+        "earnings": 2616667,
+        "fedExCupPoints": 0,
+        "dgPoints": 2.3945
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T19",
+        "earnings": 452500,
+        "fedExCupPoints": 0,
+        "dgPoints": 0.2448
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 15 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-08-17",
+      "eventId": 28,
+      "eventName": "BMW Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 3600000,
+        "fedExCupPoints": 2000,
+        "dgPoints": 15.5358
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T33",
+        "earnings": 119667,
+        "fedExCupPoints": 82.333,
+        "dgPoints": 0.1262
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 32 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-08-10",
+      "eventId": 27,
+      "eventName": "FedEx St. Jude Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T3",
+        "earnings": 1160000,
+        "fedExCupPoints": 650,
+        "dgPoints": 4.8745
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T22",
+        "earnings": 186167,
+        "fedExCupPoints": 146,
+        "dgPoints": 0.5397
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 19 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-07-20",
+      "eventId": 100,
+      "eventName": "The Open Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 3100000,
+        "fedExCupPoints": 750,
+        "dgPoints": 28
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 998 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-07-13",
+      "eventId": 541,
+      "eventName": "Genesis Scottish Open",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T8",
+        "earnings": 233400,
+        "fedExCupPoints": 80,
+        "dgPoints": 2.2164
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 991 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-06-22",
+      "eventId": 34,
+      "eventName": "Travelers Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T6",
+        "earnings": 695000,
+        "fedExCupPoints": 250,
+        "dgPoints": 2.7491
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T42",
+        "earnings": 72000,
+        "fedExCupPoints": 18,
+        "dgPoints": 0.1725
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 36 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-06-15",
+      "eventId": 26,
+      "eventName": "U.S. Open",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T7",
+        "earnings": 615786,
+        "fedExCupPoints": 225,
+        "dgPoints": 4.0132
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T23",
+        "earnings": 161489,
+        "fedExCupPoints": 42,
+        "dgPoints": 1.1224
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 16 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-06-01",
+      "eventId": 23,
+      "eventName": "the Memorial Tournament presented by Workday",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 4000000,
+        "fedExCupPoints": 700,
+        "dgPoints": 16.0358
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T20",
+        "earnings": 250667,
+        "fedExCupPoints": 51,
+        "dgPoints": 0.6962
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 19 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-05-18",
+      "eventId": 33,
+      "eventName": "PGA Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "1",
+        "earnings": 3420000,
+        "fedExCupPoints": 750,
+        "dgPoints": 28
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T50",
+        "earnings": 40674,
+        "fedExCupPoints": 13.05,
+        "dgPoints": 0.1104
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 49 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-04-20",
+      "eventId": 12,
+      "eventName": "RBC Heritage",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T8",
+        "earnings": 580000,
+        "fedExCupPoints": 175,
+        "dgPoints": 1.9461
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T54",
+        "earnings": 44500,
+        "fedExCupPoints": 9.536,
+        "dgPoints": 0
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 46 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-04-13",
+      "eventId": 14,
+      "eventName": "Masters Tournament",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "4",
+        "earnings": 1008000,
+        "fedExCupPoints": 325,
+        "dgPoints": 6.9699
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T14",
+        "earnings": 336000,
+        "fedExCupPoints": 79.286,
+        "dgPoints": 1.4602
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 10 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-03-16",
+      "eventId": 11,
+      "eventName": "THE PLAYERS Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T20",
+        "earnings": 240250,
+        "fedExCupPoints": 48.3,
+        "dgPoints": 0.9989
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T10",
+        "earnings": 656250,
+        "fedExCupPoints": 165,
+        "dgPoints": 2.3428
+      },
+      "h2hWinner": "collin-morikawa",
+      "edge": "Collin by 10 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-03-09",
+      "eventId": 9,
+      "eventName": "Arnold Palmer Invitational presented by Mastercard",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T11",
+        "earnings": 451250,
+        "fedExCupPoints": 115,
+        "dgPoints": 1.4274
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "2",
+        "earnings": 2200000,
+        "fedExCupPoints": 400,
+        "dgPoints": 9.2512
+      },
+      "h2hWinner": "collin-morikawa",
+      "edge": "Collin by 9 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-02-16",
+      "eventId": 7,
+      "eventName": "The Genesis Invitational",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T3",
+        "earnings": 1200000,
+        "fedExCupPoints": 337.5,
+        "dgPoints": 5.1523
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T17",
+        "earnings": 270714,
+        "fedExCupPoints": 56.286,
+        "dgPoints": 0.7919
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 14 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-02-02",
+      "eventId": 5,
+      "eventName": "AT&T Pebble Beach Pro-Am",
+      "tour": "pga",
+      "playerA": {
+        "name": "Scottie Scheffler",
+        "dgId": 18417,
+        "finish": "T9",
+        "earnings": 535000,
+        "fedExCupPoints": 151.667,
+        "dgPoints": 1.9139
+      },
+      "playerB": {
+        "name": "Collin Morikawa",
+        "dgId": 22085,
+        "finish": "T17",
+        "earnings": 272000,
+        "fedExCupPoints": 60,
+        "dgPoints": 0.9213
+      },
+      "h2hWinner": "scottie-scheffler",
+      "edge": "Scottie by 8 spots",
+      "counted": true
+    }
+  ]
+}

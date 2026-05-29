@@ -1,0 +1,580 @@
+{
+  "matchupId": "rory-mcilroy-vs-ludvig-aberg",
+  "updatedAt": "2026-05-29T20:04:24.699Z",
+  "source": "DataGolf Historical Event Data",
+  "rules": {
+    "mainStat": "shared-start wins",
+    "explanation": "This compares tournaments where both players were in the same field.",
+    "counting": "Better finish wins the shared start. Tied finishes count as ties. WD and DQ are excluded by default. Missed cuts count below made cuts.",
+    "dataNote": null
+  },
+  "playerA": {
+    "name": "McIlroy, Rory",
+    "displayName": "Rory McIlroy",
+    "slug": "rory-mcilroy",
+    "dgId": 10091,
+    "country": "NIR"
+  },
+  "playerB": {
+    "name": "Aberg, Ludvig",
+    "displayName": "Ludvig Åberg",
+    "slug": "ludvig-aberg",
+    "dgId": 23950,
+    "country": "SWE"
+  },
+  "summary": {
+    "since": 2023,
+    "sharedStarts": 19,
+    "playerAWins": 12,
+    "playerBWins": 7,
+    "ties": 0
+  },
+  "events": [
+    {
+      "year": 2026,
+      "date": "2026-05-17",
+      "eventId": 33,
+      "eventName": "PGA Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T7",
+        "earnings": 637050,
+        "fedExCupPoints": 225,
+        "dgPoints": 4.0132
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T4",
+        "earnings": 843867,
+        "fedExCupPoints": 300,
+        "dgPoints": 6.4127
+      },
+      "h2hWinner": "ludvig-aberg",
+      "edge": "Ludvig by 3 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-05-10",
+      "eventId": 480,
+      "eventName": "Truist Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T19",
+        "earnings": 242100,
+        "fedExCupPoints": 51.8,
+        "dgPoints": 0.694
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T8",
+        "earnings": 600000,
+        "fedExCupPoints": 187.5,
+        "dgPoints": 2.0112
+      },
+      "h2hWinner": "ludvig-aberg",
+      "edge": "Ludvig by 11 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-04-12",
+      "eventId": 14,
+      "eventName": "Masters Tournament",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "1",
+        "earnings": 4500000,
+        "fedExCupPoints": 750,
+        "dgPoints": 28
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T21",
+        "earnings": 252000,
+        "fedExCupPoints": 53,
+        "dgPoints": 1.0231
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 20 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-03-15",
+      "eventId": 11,
+      "eventName": "THE PLAYERS Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T46",
+        "earnings": 72125,
+        "fedExCupPoints": 16.125,
+        "dgPoints": 0.3746
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T5",
+        "earnings": 925000,
+        "fedExCupPoints": 275,
+        "dgPoints": 3.7685
+      },
+      "h2hWinner": "ludvig-aberg",
+      "edge": "Ludvig by 41 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-03-08",
+      "eventId": 9,
+      "eventName": "Arnold Palmer Invitational presented by Mastercard",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "WD",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T3",
+        "earnings": 1200000,
+        "fedExCupPoints": 337.5,
+        "dgPoints": 5.3134
+      },
+      "h2hWinner": "excluded",
+      "edge": "Excluded due to WD/DQ",
+      "counted": false
+    },
+    {
+      "year": 2026,
+      "date": "2026-02-22",
+      "eventId": 7,
+      "eventName": "The Genesis Invitational",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T2",
+        "earnings": 1800000,
+        "fedExCupPoints": 375,
+        "dgPoints": 7.5638
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T20",
+        "earnings": 259500,
+        "fedExCupPoints": 52.5,
+        "dgPoints": 0.7726
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 18 spots",
+      "counted": true
+    },
+    {
+      "year": 2026,
+      "date": "2026-02-15",
+      "eventId": 5,
+      "eventName": "AT&T Pebble Beach Pro-Am",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T14",
+        "earnings": 342750,
+        "fedExCupPoints": 85,
+        "dgPoints": 1.1612
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T37",
+        "earnings": 78375,
+        "fedExCupPoints": 19.969,
+        "dgPoints": 0.2627
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 23 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-08-24",
+      "eventId": 60,
+      "eventName": "TOUR Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T23",
+        "earnings": 395000,
+        "fedExCupPoints": 0,
+        "dgPoints": 0.118
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T21",
+        "earnings": 422500,
+        "fedExCupPoints": 0,
+        "dgPoints": 0.175
+      },
+      "h2hWinner": "ludvig-aberg",
+      "edge": "Ludvig by 2 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-08-17",
+      "eventId": 28,
+      "eventName": "BMW Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T12",
+        "earnings": 441000,
+        "fedExCupPoints": 242.667,
+        "dgPoints": 1.0419
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T7",
+        "earnings": 645000,
+        "fedExCupPoints": 340,
+        "dgPoints": 1.9002
+      },
+      "h2hWinner": "ludvig-aberg",
+      "edge": "Ludvig by 5 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-07-20",
+      "eventId": 100,
+      "eventName": "The Open Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T7",
+        "earnings": 451833,
+        "fedExCupPoints": 225,
+        "dgPoints": 4.0132
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T23",
+        "earnings": 138040,
+        "fedExCupPoints": 47,
+        "dgPoints": 1.2384
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 16 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-07-13",
+      "eventId": 541,
+      "eventName": "Genesis Scottish Open",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T2",
+        "earnings": 788175,
+        "fedExCupPoints": 245,
+        "dgPoints": 7.1217
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T8",
+        "earnings": 233400,
+        "fedExCupPoints": 80,
+        "dgPoints": 2.2164
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 6 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-06-22",
+      "eventId": 34,
+      "eventName": "Travelers Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T6",
+        "earnings": 695000,
+        "fedExCupPoints": 250,
+        "dgPoints": 2.7491
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T36",
+        "earnings": 90500,
+        "fedExCupPoints": 21.625,
+        "dgPoints": 0.234
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 30 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-06-15",
+      "eventId": 26,
+      "eventName": "U.S. Open",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T19",
+        "earnings": 243070,
+        "fedExCupPoints": 58.25,
+        "dgPoints": 1.5422
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 980 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-06-08",
+      "eventId": 32,
+      "eventName": "RBC Canadian Open",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T13",
+        "earnings": 180810,
+        "fedExCupPoints": 55.2,
+        "dgPoints": 0.9307
+      },
+      "h2hWinner": "ludvig-aberg",
+      "edge": "Ludvig by 986 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-05-18",
+      "eventId": 33,
+      "eventName": "PGA Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T47",
+        "earnings": 49190,
+        "fedExCupPoints": 15.75,
+        "dgPoints": 0.5784
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 952 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-05-11",
+      "eventId": 480,
+      "eventName": "Truist Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T7",
+        "earnings": 602500,
+        "fedExCupPoints": 187.5,
+        "dgPoints": 2.0588
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T60",
+        "earnings": 42500,
+        "fedExCupPoints": 8,
+        "dgPoints": 0
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 53 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-04-13",
+      "eventId": 14,
+      "eventName": "Masters Tournament",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "1",
+        "earnings": 4200000,
+        "fedExCupPoints": 750,
+        "dgPoints": 28
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "7",
+        "earnings": 703500,
+        "fedExCupPoints": 250,
+        "dgPoints": 3.9332
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 6 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-03-16",
+      "eventId": 11,
+      "eventName": "THE PLAYERS Championship",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "1",
+        "earnings": 4500000,
+        "fedExCupPoints": 750,
+        "dgPoints": 19.9974
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "CUT",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 998 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-03-09",
+      "eventId": 9,
+      "eventName": "Arnold Palmer Invitational presented by Mastercard",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T15",
+        "earnings": 349000,
+        "fedExCupPoints": 80,
+        "dgPoints": 1.0465
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "T22",
+        "earnings": 178111,
+        "fedExCupPoints": 40.056,
+        "dgPoints": 0.5318
+      },
+      "h2hWinner": "rory-mcilroy",
+      "edge": "Rory by 7 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-02-16",
+      "eventId": 7,
+      "eventName": "The Genesis Invitational",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "T17",
+        "earnings": 270714,
+        "fedExCupPoints": 56.286,
+        "dgPoints": 0.7919
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "1",
+        "earnings": 4000000,
+        "fedExCupPoints": 700,
+        "dgPoints": 16.4444
+      },
+      "h2hWinner": "ludvig-aberg",
+      "edge": "Ludvig by 16 spots",
+      "counted": true
+    },
+    {
+      "year": 2025,
+      "date": "2025-02-02",
+      "eventId": 5,
+      "eventName": "AT&T Pebble Beach Pro-Am",
+      "tour": "pga",
+      "playerA": {
+        "name": "Rory McIlroy",
+        "dgId": 10091,
+        "finish": "1",
+        "earnings": 3600000,
+        "fedExCupPoints": 700,
+        "dgPoints": 16.9292
+      },
+      "playerB": {
+        "name": "Ludvig Åberg",
+        "dgId": 23950,
+        "finish": "WD",
+        "earnings": 0,
+        "fedExCupPoints": 0,
+        "dgPoints": 0
+      },
+      "h2hWinner": "excluded",
+      "edge": "Excluded due to WD/DQ",
+      "counted": false
+    }
+  ]
+}
